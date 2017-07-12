@@ -20,4 +20,7 @@ public class Example {
         System.out.println("Edinburgh outlook: " + edinburghForecast.summary());
         System.out.println("Edinburgh temperature: " + edinburghForecast.temperature());
     }
+
 }
+
+
